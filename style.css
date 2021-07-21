@@ -15,7 +15,7 @@
 }
 
 .new_york {
-  background-image: url(/immagini/new\ york.jpg);
+  background-image: url("https://github.com/Matteo-Iacconi/matteoiacconi.github.io/blob/main/immagini/new%20york.jpg?raw=true");
   background-size: cover;
   height: 100vh;
   position: relative;
