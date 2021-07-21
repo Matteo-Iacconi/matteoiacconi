@@ -19,6 +19,7 @@
   background-size: cover;
   height: 100vh;
   position: relative;
+  background-position: center;
 }
 
 .california {
@@ -26,6 +27,7 @@
   height: 100vh;
   background-size: cover;
   position: relative;
+  background-position: center;
 }
 
 .dubai {
@@ -33,6 +35,7 @@
   height: 100vh;
   background-size: cover;
   position: relative;
+  background-position: center;
 }
 
 .text1 {
