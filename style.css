@@ -23,7 +23,7 @@
 }
 
 .california {
-  background-image: url(/immagini/california.png);
+  background-image: url("https://github.com/Matteo-Iacconi/matteoiacconi.github.io/blob/main/immagini/california.png?raw=true");
   height: 100vh;
   background-size: cover;
   position: relative;
