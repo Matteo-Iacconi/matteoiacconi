@@ -31,7 +31,7 @@
 }
 
 .dubai {
-  background-image: url("/immagini/Dubai.jpg");
+  background-image: url("https://github.com/Matteo-Iacconi/matteoiacconi/blob/main/immagini/Dubai.jpg?raw=true");
   height: 100vh;
   background-size: cover;
   position: relative;
