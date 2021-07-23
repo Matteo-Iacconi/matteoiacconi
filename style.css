@@ -42,6 +42,7 @@
 
 .album-image img {
   width: 100%;
+  height: 100%; /*bisogna mettere anche l'altezza, perché senza, con immagini diverse, i blocchi si spargono a caso sulla pagina.*/
 }
 
 .album-title,
